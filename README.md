@@ -9,5 +9,5 @@ This was a fun little app to make. Was pretty quick to finish.
 
 
 <h2>Author</h2>
-• <bold>Brandon Carpenter</bold> - Full-Stack Software Developer -
+• <bold>Brandon Carpenter</bold> - Aspiring Full-Stack Software Developer -
 
